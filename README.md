@@ -1,4 +1,4 @@
-# Strona Matka - Portfolio Projektów Szkolnych
+# Strona Glowna Technikum Projekt - Portfolio Projektów Szkolnych
 
 ## Opis projektu
 
