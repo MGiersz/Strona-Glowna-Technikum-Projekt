@@ -9,19 +9,19 @@ Strona Matka jest projektem stworzonym na przedmiot szkolny w technikum. Stanowi
 Na stronie można znaleźć następujące projekty:
 
 1. **Ciastkarnia**
-   - Opis: Projekt przedstawiający fikcyjną stronę internetową dla ciastkarni, zawierający informacje o ofercie, lokalizacji oraz kontakt.
+   - Opis: Projekt przedstawiający fikcyjną stronę internetową dla ciastkarni, zawierający informacje o ofercie.
    - Technologie: HTML, CSS
 
 2. **Drużyna Sportowa**
-   - Opis: Strona promująca drużynę sportową, z informacjami o zawodnikach, kalendarzem rozgrywek oraz aktualnościami.
+   - Opis: Strona przedstawiająca różnych sportowców z odnosnikiem do strony o mnie. 
    - Technologie: HTML, CSS
 
 3. **MacOS**
-   - Opis: Projekt mający na celu symulację interfejsu systemu operacyjnego MacOS, z podstawowymi funkcjonalnościami.
+   - Opis: Strona przedstawiająca historie, informacje, cechy i inne właściwości systemu MacOS.
    - Technologie: HTML, CSS
 
 4. **Seoul**
-   - Opis: Strona turystyczna prezentująca atrakcje oraz informacje praktyczne dotyczące Seulu, stolicy Korei Południowej.
+   - Opis: Strona przedstawiająca podstawowe informacje o stolicy Korei południowej.
    - Technologie: HTML, CSS
 
 ## Technologie
